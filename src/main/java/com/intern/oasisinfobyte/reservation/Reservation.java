@@ -12,7 +12,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author 3991a
+ * @author Aniket
  */
 public class Reservation {
     private String firstName;

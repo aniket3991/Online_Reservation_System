@@ -6,7 +6,7 @@ package com.intern.oasisinfobyte.reservation;
 
 /**
  *
- * @author 3991a
+ * @author Aniket
  */
 public class ReservationForm extends javax.swing.JFrame {
 
