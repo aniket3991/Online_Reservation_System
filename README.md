@@ -1,4 +1,4 @@
-# Online Reservation System
+# Ticket Reservation
 
 # Requirements
 - JDK 19
